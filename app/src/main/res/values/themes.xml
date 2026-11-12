@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme XML chỉ dùng cho cửa sổ lúc khởi động; giao diện thật do Compose (NoteLiteTheme) vẽ. -->
+    <style name="Theme.NoteLite" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
